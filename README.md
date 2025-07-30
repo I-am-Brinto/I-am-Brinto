@@ -1,4 +1,4 @@
-<b># 🌟 Brinto's Coding Space<b>
+<h2># 🌟 Brinto's Coding Space<h2>
 
 👋 Hi there! I'm Brinto, and this is my personal space where I explore programming and try to learn new things step by step.
 

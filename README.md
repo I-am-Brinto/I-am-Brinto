@@ -1,27 +1,20 @@
-<h2># 🌟 Brinto's Coding Space<h2>
+<h3 align="center">👋 Hi there! I'm Brinto, and this is my personal space where I explore programming and try to learn new things step by step.</h3>
 
-👋 Hi there! I'm Brinto, and this is my personal space where I explore programming and try to learn new things step by step.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-brinto&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-brinto" /> </p>
 
-## 📁 What's in this repo?
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-brinto" alt="i-am-brinto" /></a> </p>
 
-This repository is like my digital notebook. It includes:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🧠 **DSA Practice** – Stack, Queue, and other data structure problems
-- 💻 **Java & C++ Mini Projects** – Basic programs and small apps as I learn
-- 🦀 **Rust Experiments** – Just starting to explore this powerful language
-- 📚 **Study Notes** – Simple notes on what I’ve learned so far
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💡 Why this repo?
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-I wanted a single place to keep all my practice and learning projects.  
-It helps me track my progress and maybe help others who are just starting too.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-brinto&show_icons=true&locale=en&layout=compact" alt="i-am-brinto" /></p>
 
-## 🔗 Connect with me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-brinto&show_icons=true&locale=en" alt="i-am-brinto" /></p>
 
-Feel free to check out my work, give suggestions, or just say hi!  
-🌍 [Your Website or Portfolio Link] (if any)  
-📫 Email: [Your Email] (optional)
-
----
-
-🛠️ Still learning. Still building. One line of code at a time.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-brinto&" alt="i-am-brinto" /></p>
